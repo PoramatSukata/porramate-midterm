@@ -1,0 +1,9 @@
+asgiref
+dj-database-url
+Django
+gunicorn
+netaddr
+psycopg2
+pytz
+sqlparse
+whitenoise
